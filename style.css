@@ -1,0 +1,178 @@
+*{
+    margin: 1px 0;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+
+
+.btn{
+  padding: 10px 15px;
+  background-color: aliceblue;
+  border: 1px solid (13, 19, 33);
+  font-weight: bold;
+}
+
+.banner-container{
+    height:  652px;;
+   background-image: url("B10A1-Challenge-Begins/assets/Hero-bg.png");
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+text-align: center;
+}
+/* HEad 2 */
+.banner-img{
+    width: 173.03px;
+    margin-top: 36px;
+}
+.btn-c{
+    border-radius: 8px;
+padding: 10px 15px;
+background: rgb(13, 19, 33);
+color: aliceblue;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+margin: 32px 0px;
+
+}
+.banner-title{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+}
+
+.banner-dis{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 24px 0px;
+}
+
+main{
+    width: 1140px;
+
+margin: 0 auto;
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+text-align: center;
+}
+
+.box1{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 50px;
+    align-items: center;
+    
+    }
+.box2{
+    background-color: rgb(243, 233, 234);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box-btn{
+   
+font-size: 20px;
+font-weight: 500;
+line-height: 23px;
+}
+.last-title{
+    text-align: center;
+  
+}
+.last-des{
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.last-title{
+    font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+margin-bottom: 10px;
+}
+
+.yt{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.current-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 40px;
+}
+
+.HTML-box{
+    border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+.CSS-box{
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+}
+.JS-box{
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+
+.box-con{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.text{
+    margin-bottom: 70px;
+}
+
+.ract-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.b-t h2{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.node-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.db-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 140px;
+}
+
+.ft{
+    display: flex;
+    justify-content: space-around;
+}
